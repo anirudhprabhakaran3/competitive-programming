@@ -1,1 +1,6 @@
 a.exe
+.vscode
+
+# List of problems I couldn't solve / are WIP
+maximum_gain.cpp
+glide_typing.cpp
